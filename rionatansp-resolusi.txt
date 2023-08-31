@@ -4,3 +4,4 @@ Rionatan Resolusi
 - Taat Firman Tuhan
 - Membuat aplikasi Jurnal KTB
 - Membuat aplikasi Bengkala
+- Membuat aplikasi PMK
