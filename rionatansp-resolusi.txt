@@ -2,6 +2,6 @@ Rionatan Resolusi
 - Konsisten untuk belajar programming setiap hari
 - Konsisten disipliln rohani setiap hari
 - Taat Firman Tuhan
-- Membuat aplikasi Jurnal KTB
-- Membuat aplikasi Bengkala
-- Membuat aplikasi PMK
+- Membuat aplikasi Jurnal KTB --> website dan mobile
+- Membuat aplikasi Bengkala --> website dan mobile
+- Membuat aplikasi PMK --> website dan mobile
